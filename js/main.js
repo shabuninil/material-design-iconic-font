@@ -38,38 +38,38 @@
                 {
                     share: "paypal",
                     label: "Donate with PayPal",
-                    logo: "zmdi zmdi-hc-fw zmdi-paypal",
+                    logo: "md md-hc-fw md-paypal",
                     email: "s.kupletsky@gmail.com",
                     name: "Material Design Iconic Font"
                 },
                 {
                     share: "github",
                     label: "Star",
-                    logo: "zmdi zmdi-hc-fw zmdi-github",
+                    logo: "md md-hc-fw md-github",
                     user: "zavoloklom",
                     repo: "material-design-iconic-font"
                 },
                 {
                     share: "twitter",
                     label: "Tweet",
-                    logo: "zmdi zmdi-hc-fw zmdi-twitter",
+                    logo: "md md-hc-fw md-twitter",
                     via: "zavoloklom",
                     hashtags: "materialDesign"
                 },
                 {
                     share: "facebook",
                     label: "Share",
-                    logo: "zmdi zmdi-hc-fw zmdi-facebook"
+                    logo: "md md-hc-fw md-facebook"
                 },
                 {
                     share: "googleplus",
                     label: "Share",
-                    logo: "zmdi zmdi-hc-fw zmdi-google-plus"
+                    logo: "md md-hc-fw md-google-plus"
                 },
                 {
                     share: "pinterest",
                     label: "Pin it",
-                    logo: "zmdi zmdi-hc-fw zmdi-pinterest"
+                    logo: "md md-hc-fw md-pinterest"
                 }
             ],
             url: "http://zavoloklom.github.io/material-design-iconic-font/",
